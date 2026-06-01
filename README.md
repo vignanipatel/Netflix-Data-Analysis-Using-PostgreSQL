@@ -27,10 +27,12 @@ SELECT *
 FROM netflix;
 ```
 # UPDATE netflix_clean
+performed this to every column separatly
 ```sql
 SET country = TRIM(country);
 ```
 # Handled Missing Values
+performed this to every column separatly
 ```sql
 UPDATE netflix_clean
 SET country = 'Unknown'
