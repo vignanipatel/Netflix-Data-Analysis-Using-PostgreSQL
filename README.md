@@ -14,6 +14,12 @@ Dataset Size: 8,807 Titles
 - Data Cleaning
 - Standardized Country Names
 
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset.
+
+Dataset Link: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
 # UPDATE netflix_clean
 ```sql
 SET country = TRIM(country);
