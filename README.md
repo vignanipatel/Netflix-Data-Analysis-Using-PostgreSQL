@@ -194,7 +194,7 @@ Netflix maintained strong content additions during the pandemic period, reflecti
 - Analytical Thinking
 
 # Author
-Vignani Erram
+Vignani Erram |
 Aspiring Data Analyst | SQL | PostgreSQL | Excel | Power BI
 
 
