@@ -20,6 +20,12 @@ The data for this project is sourced from the Kaggle dataset.
 
 Dataset Link: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
+# Created Analysis Table
+```sql
+CREATE TABLE netflix_clean AS
+SELECT *
+FROM netflix;
+```
 # UPDATE netflix_clean
 ```sql
 SET country = TRIM(country);
@@ -29,12 +35,6 @@ SET country = TRIM(country);
 UPDATE netflix_clean
 SET country = 'Unknown'
 WHERE country IS NULL;
-```
-# Created Analysis Table
-```sql
-CREATE TABLE netflix_clean AS
-SELECT *
-FROM netflix;
 ```
 # Business Questions
 # 1: Movies vs TV Shows Distribution
