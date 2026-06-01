@@ -15,8 +15,8 @@ Dataset Size: 8,807 Titles
 - Standardized Country Names
 
 # UPDATE netflix_clean
-
-SET country = TRIM(country);
+```sql
+SET country = TRIM(country);```
 
 # Handled Missing Values
 UPDATE netflix_clean
