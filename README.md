@@ -193,7 +193,7 @@ Netflix maintained strong content additions during the pandemic period, reflecti
 - Data Storytelling
 - Analytical Thinking
 
-#Author
+# Author
 Vignani Erram
 Aspiring Data Analyst | SQL | PostgreSQL | Excel | Power BI
 
