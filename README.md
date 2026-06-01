@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis-Using-PostgreSQL
-"C:\Users\vigna\Downloads\netflix project\logo.png"
+[netflixlogo]("C:\Users\vigna\Downloads\netflix project\logo.png")
 
 # Project Overview
 
